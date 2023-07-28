@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  /* height: 90vh; */
+  color: antiquewhite;
+}
+h1 {
+  color: #00e7ff;
+}
+table {
+  width: 80%;
+  border-radius: 6px;
+  border: 2px solid cyan;
+  /* padding: 13px 29px 13px 29px; */
+}
+.cointype {
+  text-align: left;
+  width: 70%;
+}
+.currencies {
+  text-align: right;
+}
+th,
+td {
+  padding: 13px 23px 13px 23px;
+}
